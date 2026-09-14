@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://samskar004.vercel.app/sitemap.xml

@@ -1,0 +1,13 @@
+{
+  "name": "Samskar — Crafting Traditions with Trend",
+  "short_name": "Samskar",
+  "description": "Puja & rituals, photography, decoration and catering for weddings and ceremonies across Bangalore, Mysore and Shimoga.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FBF3E6",
+  "theme_color": "#6E1F2B",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
