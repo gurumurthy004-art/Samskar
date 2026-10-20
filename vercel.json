@@ -1,0 +1,10 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [{ "type": "host", "value": "samskar004.vercel.app" }],
+      "destination": "https://samskar.runs-on.dev/$1",
+      "statusCode": 301
+    }
+  ]
+}
